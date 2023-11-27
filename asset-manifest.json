@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MinishopApp/static/css/main.71b36506.css",
+    "main.js": "/MinishopApp/static/js/main.0e1c82bb.js",
+    "static/js/787.af927935.chunk.js": "/MinishopApp/static/js/787.af927935.chunk.js",
+    "index.html": "/MinishopApp/index.html",
+    "main.71b36506.css.map": "/MinishopApp/static/css/main.71b36506.css.map",
+    "main.0e1c82bb.js.map": "/MinishopApp/static/js/main.0e1c82bb.js.map",
+    "787.af927935.chunk.js.map": "/MinishopApp/static/js/787.af927935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b36506.css",
+    "static/js/main.0e1c82bb.js"
+  ]
+}
