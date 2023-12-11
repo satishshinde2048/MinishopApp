@@ -28,7 +28,7 @@
 
 + Navigate to the project directory:
 
-      cd Flashcard-Generator-project
+      cd MinishopApp
                                                                                                        
 + Install dependencies:                                                                                                    
 
